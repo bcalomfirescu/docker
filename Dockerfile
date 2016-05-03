@@ -1,4 +1,4 @@
-FROM php:5.6-apache
+FROM openshift:php
 
 MAINTAINER Bogdan Calomfirescu <bogdan.calomfirescu@orange.com>
 
